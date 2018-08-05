@@ -1,0 +1,4 @@
+= Learning Groovy
+:icons: font
+:sectanchors:
+:page-layout: docs
